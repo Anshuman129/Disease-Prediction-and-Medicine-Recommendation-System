@@ -1,31 +1,13 @@
-🩺 MediPath – Disease Prediction and Medicine Recommendation System
+## 🩺 MediPath – Disease Prediction and Medicine Recommendation System**
+
 An AI-powered web application that predicts diseases based on user-input symptoms and recommends appropriate medicines using Machine Learning algorithms such as Decision Tree, SVM, and Random Forest.
 
-📌 Table of Contents
-About the Project
+**🔍 About the Project**
 
-Features
-
-Tech Stack
-
-ML Algorithms Used
-
-Project Architecture
-
-Screenshots
-
-Setup Instructions
-
-Limitations & Future Enhancements
-
-Contributors
-
-License
-
-🔍 About the Project
 MediPath is a smart health assistant designed to help users identify possible diseases based on their symptoms and recommend general medicines. This tool serves as a preliminary diagnosis system and enhances healthcare accessibility, especially in remote or underserved areas.
 
-🚀 Features
+**🚀 Features**
+
 🔎 Disease prediction based on symptoms using trained ML models
 
 💊 Medicine recommendation linked with the predicted disease
@@ -36,7 +18,8 @@ MediPath is a smart health assistant designed to help users identify possible di
 
 👨‍⚕️ Doctor/admin panel (optional for dataset management)
 
-🛠 Tech Stack
+**🛠 Tech Stack**
+
 Frontend: HTML, CSS, Bootstrap, JavaScript
 
 Backend: Python, Flask
@@ -45,33 +28,31 @@ Database: SQLite / MySQL
 
 Machine Learning: scikit-learn, pandas, NumPy
 
-Deployment (optional): Heroku / Render / PythonAnywhere
+**🤖 ML Algorithms Used**
 
-🤖 ML Algorithms Used
+Decision Tree: Simple, explainable disease prediction
+Support Vector Machine (SVM):	Effective in complex and high-dimensional symptom classification
+Random Forest:	Ensemble method for more robust and accurate predictions
 
-Algorithm	Purpose
-Decision Tree	Simple, explainable disease prediction
-Support Vector Machine (SVM)	Effective in complex and high-dimensional symptom classification
-Random Forest	Ensemble method for more robust and accurate predictions
-
-📸 Screenshots
-(Add screenshots of your UI here)
+**📸 Screenshots**
 
 Symptom Entry Page
+![Symptom Entry Page](screenshots/ss1.jpg)
 
 Prediction Result Page
+![Prediction Result Page](screenshots/ss3.jpg)
 
 Medicine Suggestions
+![Medicine Suggestions](screenshots/ss2.jpg)
 
-🚧 Limitations & Future Enhancements
-✅ Current Limitations:
+**✅ Current Limitations**
 Not personalized for patient history
 
 Limited to general diseases
 
 Static medicine mapping (non-dosage specific)
 
-🔮 Planned Features:
+**🔮 Planned Features**
 Integration with wearable health devices
 
 Real-time doctor chat
@@ -80,6 +61,6 @@ Multilingual support
 
 Advanced medicine prescription with dosage & interactions
 
-👥 Contributors
+**👥 Contributors**
 Anshuman Agarwal
 
