@@ -1,4 +1,4 @@
-## 🩺 MediPath – Disease Prediction and Medicine Recommendation System**
+## 🩺 MediPath – Disease Prediction and Medicine Recommendation System
 
 An AI-powered web application that predicts diseases based on user-input symptoms and recommends appropriate medicines using Machine Learning algorithms such as Decision Tree, SVM, and Random Forest.
 
